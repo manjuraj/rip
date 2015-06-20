@@ -1,0 +1,9 @@
+[package]
+
+name = "rip"
+version = "0.0.1"
+authors = [ "Manju Rajashekhar<manj@cs.stanford.edu" ]
+
+[[bin]]
+
+name = "rip"
